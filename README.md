@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @biubiubiupiu21
-- 👀 I’m interested in Coding, filming and video game
+- 👋 Hi, I’m Junyu (Tim) Yao @biubiubiupiu21
+- 👀 I'm currently a Master's student at New York University, majoring in Computer Engineering. My passion for technology is not just limited to academics; I love exploring various facets of tech, be it coding, gaming, or filming. 
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 197yjy@gamil.com
