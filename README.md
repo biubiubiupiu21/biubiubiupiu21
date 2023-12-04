@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hi there, I'm @biubiubiupiu21
 
-## About Me
+## 👀 About Me
 I'm currently a Master's student at New York University, majoring in Computer Engineering. My passion for technology is not just limited to academics; I love exploring various facets of tech, be it coding, gaming, or filming. 
 
 ## 🌱 What I’m currently learning
