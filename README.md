@@ -3,7 +3,7 @@ biubiubiupiu21/biubiubiupiu21 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👋 Hi there, I'm @biubiubiupiu21
+# 👋 Hi there, I'm Junyu (Tim) Yao @biubiubiupiu21
 
 ## 👀 About Me
 I'm currently a Master's student at New York University, majoring in Computer Engineering. My passion for technology is not just limited to academics; I love exploring various facets of tech, be it coding, gaming, or filming. 
