@@ -18,7 +18,7 @@ I'm currently a Master's student at New York University, majoring in Computer En
 
 ## 💼 Experience
 - **GIS Analyst at [Washington College]**: Worked on geographical data analysis and mapping, utilizing GIS software and tools to provide insightful data visualizations and reports for urban planning and environmental projects.
-- **Web Developer at Tandon Chinese Students Scholars Association**: Led a team of 13 to enhance our website, resulting in a 20% increase in student participation.
+- **Web Developer at Tandon Chinese Students Scholars Association**: Led a team of 13 to enhance our website, resulting in a 20% increase in student participation. https://nyutandoncssa.com/#/
 - **Developer for 'If You Are the One' Event Website**: Created an interactive website for a Tandon CSSA event, applauded for its user engagement.
 - **Inventory Management Software Developer**: Developed software for apparel factories, improving data management and reducing costs by 10%.
 
